@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/certified-developer/MLOps_Professional/lab3/sample/mlruns/256787905811672878/7d2830ada687446d981d5428b50214b3/artifacts
+end_time: 1712795920363
+entry_point_name: ''
+experiment_id: '256787905811672878'
+lifecycle_stage: active
+run_id: 7d2830ada687446d981d5428b50214b3
+run_name: suave-stoat-543
+run_uuid: 7d2830ada687446d981d5428b50214b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712795916605
+status: 3
+tags: []
+user_id: ubuntu

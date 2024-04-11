@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/certified-developer/MLOps_Professional/lab3/sample/mlruns/256787905811672878/627d2a4be9534e648c2919bbc1baf4b1/artifacts
+end_time: 1712795813538
+entry_point_name: ''
+experiment_id: '256787905811672878'
+lifecycle_stage: active
+run_id: 627d2a4be9534e648c2919bbc1baf4b1
+run_name: dazzling-smelt-1
+run_uuid: 627d2a4be9534e648c2919bbc1baf4b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712795813466
+status: 3
+tags: []
+user_id: ubuntu
